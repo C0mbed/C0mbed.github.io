@@ -1,11 +1,11 @@
 # Site settings
 author: Matt Farncombe
-title: 
+title: Random thoughts by a lawyer who thinks he can code
 header-img: img/home-bg.png
 email: matt@farncombe.co
 copyright_name: Matt Farncombe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  lawcode
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: farnc0mbe
 github_username:  C0mbed
